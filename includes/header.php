@@ -80,58 +80,30 @@
                          </ul>
                      </li> -->
                      <li class="nav__item">
-                         <a href="/" class="nav__item-link">Inicio</a>
+                         <a href="contact-us.html" class="nav__item-link">Home</a>
                      </li>
                      <li class="nav__item">
-                         <a href="/" class="nav__item-link">About Us</a>
+                         <a href="contact-us.html" class="nav__item-link">About Us</a>
                      </li>
                      <li class="nav__item">
-                         <a href="/" class="nav__item-link">Services</a>
+                         <a href="contact-us.html" class="nav__item-link">Services</a>
                      </li>
                      <li class="nav__item">
-                         <a href="/" class="nav__item-link">Consultation</a>
+                         <a href="contact-us.html" class="nav__item-link">Consultation</a>
                      </li>
                      <li class="nav__item">
-                         <a href="/" class="nav__item-link">Our Staff</a>
+                         <a href="contact-us.html" class="nav__item-link">Our Staff</a>
                      </li>
                      <li class="nav__item">
-                         <a href="/" class="nav__item-link">Smile Gallery</a>
+                         <a href="contact-us.html" class="nav__item-link">Smile Gallery</a>
                      </li>
                      <li class="nav__item">
-                         <a href="/" class="nav__item-link">Testimonial</a>
+                         <a href="contact-us.html" class="nav__item-link">Contacts</a>
                      </li>
-                     <li class="nav__item">
-                         <a href="/" class="nav__item-link">Contacts</a>
-                     </li>
-
                  </ul><!-- /.navbar-nav -->
                  <button class="close-mobile-menu d-block d-lg-none"><i class="fas fa-times"></i></button>
              </div><!-- /.navbar-collapse -->
-             <div class="d-none d-xl-flex align-items-center position-relative ml-30">
-                 <div class="miniPopup-departments-trigger">
-                     <span class="menu-lines" id="miniPopup-departments-trigger-icon"><span></span></span>
-                     <a href="departments.html">Departments</a>
-                 </div>
-                 <ul id="miniPopup-departments" class="miniPopup miniPopup-departments dropdown-menu">
-                     <li class="nav__item">
-                         <a href="department-single.html" class="nav__item-link">Neurology Clinic</a>
-                     </li><!-- /.nav-item -->
-                     <li class="nav__item">
-                         <a href="department-single.html" class="nav__item-link">Cardiology Clinic</a>
-                     </li><!-- /.nav-item -->
-                     <li class="nav__item">
-                         <a href="department-single.html" class="nav__item-link">Pathology Clinic</a>
-                     </li><!-- /.nav-item -->
-                     <li class="nav__item">
-                         <a href="department-single.html" class="nav__item-link">Laboratory Clinic</a>
-                     </li><!-- /.nav-item -->
-                     <li class="nav__item">
-                         <a href="department-single.html" class="nav__item-link">Pediatric Clinic</a>
-                     </li><!-- /.nav-item -->
-                     <li class="nav__item">
-                         <a href="department-single.html" class="nav__item-link">Cardiac Clinic</a>
-                     </li><!-- /.nav-item -->
-                 </ul> <!-- /.miniPopup-departments -->
+             <div class="d-none d-xl-flex align-items-center position-relative ml-30"> <!-- /.miniPopup-departments -->
                  <a href="appointment.html" class="btn btn__primary btn__rounded ml-30">
                      <i class="icon-calendar"></i>
                      <span>Appointment</span>
