@@ -2,7 +2,7 @@
        page title 
     =========================== -->
  <section class="page-title page-title-layout1 bg-overlay">
-     <div class="bg-img"><img src="assets/images/page-titles/2.jpg" alt="background"></div>
+     <div class="bg-img"><img src="/assets/images/page-titles/2.jpg" alt="background"></div>
      <div class="container">
          <div class="row">
              <div class="col-sm-12 col-md-12 col-lg-12 col-xl-5">
@@ -30,7 +30,7 @@
         Services Layout 1
     =========================== -->
  <section class="services-layout1 pt-130">
-     <div class="bg-img"><img src="assets/images/backgrounds/2.jpg" alt="background"></div>
+     <div class="bg-img"><img src="/assets/images/backgrounds/2.jpg" alt="background"></div>
      <div class="container">
          <div class="row">
              <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">

@@ -14,7 +14,7 @@
          <div class="row">
              <div class="col-12">
                  <div class="contact-panel d-flex flex-wrap">
-                     <form class="contact-panel__form" method="post" action="assets/php/contact.php" id="contactForm">
+                     <form class="contact-panel__form" method="post" action="/assets/php/contact.php" id="contactForm">
                          <div class="row">
                              <div class="col-sm-12">
                                  <h4 class="contact-panel__title">How Can We Help? </h4>
@@ -71,7 +71,7 @@
                      </form>
                      <div
                          class="contact-panel__info d-flex flex-column justify-content-between bg-overlay bg-overlay-primary-gradient">
-                         <div class="bg-img"><img src="assets/images/banners/1.jpg" alt="banner"></div>
+                         <div class="bg-img"><img src="/assets/images/banners/1.jpg" alt="banner"></div>
                          <div>
                              <h4 class="contact-panel__title color-white">Quick Contacts</h4>
                              <p class="contact-panel__desc font-weight-bold color-white mb-30">Please feel free to

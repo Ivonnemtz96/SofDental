@@ -2,7 +2,7 @@
        page title 
     =========================== -->
  <section class="page-title page-title-layout1 bg-overlay">
-     <div class="bg-img"><img src="assets/images/page-titles/7.jpg" alt="background"></div>
+     <div class="bg-img"><img src="/assets/images/page-titles/7.jpg" alt="background"></div>
      <div class="container">
          <div class="row">
              <div class="col-sm-12 col-md-12 col-lg-12 col-xl-5">
@@ -30,7 +30,7 @@
              <div class="col-sm-6 col-md-4 col-lg-4">
                  <div class="member">
                      <div class="member__img">
-                         <img src="assets/images/team/1.jpg" alt="member img">
+                         <img src="/assets/images/team/1.jpg" alt="member img">
                          <div class="member__hover">
                              <ul class="social-icons list-unstyled mb-0">
                                  <li><a href="#" class="facebook"><i class="fab fa-facebook-f"></i></a></li>
@@ -52,7 +52,7 @@
              <div class="col-sm-6 col-md-4 col-lg-4">
                  <div class="member">
                      <div class="member__img">
-                         <img src="assets/images/team/2.jpg" alt="member img">
+                         <img src="/assets/images/team/2.jpg" alt="member img">
                          <div class="member__hover">
                              <ul class="social-icons list-unstyled mb-0">
                                  <li><a href="#" class="facebook"><i class="fab fa-facebook-f"></i></a></li>
@@ -74,7 +74,7 @@
              <div class="col-sm-6 col-md-4 col-lg-4">
                  <div class="member">
                      <div class="member__img">
-                         <img src="assets/images/team/3.jpg" alt="member img">
+                         <img src="/assets/images/team/3.jpg" alt="member img">
                          <div class="member__hover">
                              <ul class="social-icons list-unstyled mb-0">
                                  <li><a href="#" class="facebook"><i class="fab fa-facebook-f"></i></a></li>
@@ -96,7 +96,7 @@
              <div class="col-sm-6 col-md-4 col-lg-4">
                  <div class="member">
                      <div class="member__img">
-                         <img src="assets/images/team/4.jpg" alt="member img">
+                         <img src="/assets/images/team/4.jpg" alt="member img">
                          <div class="member__hover">
                              <ul class="social-icons list-unstyled mb-0">
                                  <li><a href="#" class="facebook"><i class="fab fa-facebook-f"></i></a></li>
@@ -118,7 +118,7 @@
              <div class="col-sm-6 col-md-4 col-lg-4">
                  <div class="member">
                      <div class="member__img">
-                         <img src="assets/images/team/5.jpg" alt="member img">
+                         <img src="/assets/images/team/5.jpg" alt="member img">
                          <div class="member__hover">
                              <ul class="social-icons list-unstyled mb-0">
                                  <li><a href="#" class="facebook"><i class="fab fa-facebook-f"></i></a></li>
@@ -141,7 +141,7 @@
              <div class="col-sm-6 col-md-4 col-lg-4">
                  <div class="member">
                      <div class="member__img">
-                         <img src="assets/images/team/6.jpg" alt="member img">
+                         <img src="/assets/images/team/6.jpg" alt="member img">
                          <div class="member__hover">
                              <ul class="social-icons list-unstyled mb-0">
                                  <li><a href="#" class="facebook"><i class="fab fa-facebook-f"></i></a></li>

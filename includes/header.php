@@ -9,16 +9,16 @@
                      <div class="d-flex align-items-center justify-content-between">
                          <ul class="contact__list d-flex flex-wrap align-items-center list-unstyled mb-0">
                              <li>
-                                 <button class="miniPopup-emergency-trigger" type="button">24/7 Emergency</button>
+                                 <button class="miniPopup-emergency-trigger" type="button">Márcanos</button>
                                  <div id="miniPopup-emergency" class="miniPopup miniPopup-emergency text-center">
                                      <div class="emergency__icon">
                                          <i class="icon-call3"></i>
                                      </div>
-                                     <a href="tel:+201061245741" class="phone__number">
-                                         <i class="icon-phone"></i> <span>+2 01061245741</span>
+                                     <a href="tel:+526241422459" class="phone__number">
+                                         <i class="icon-phone"></i> <span>(624) 142 24 59</span>
                                      </a>
-                                     <p>Please feel free to contact our friendly reception staff with any general or
-                                         medical enquiry.
+                                     <p>
+                                         Cabo Soft Dental Care
                                      </p>
                                      <a href="appointment.html" class="btn btn__secondary btn__link btn__block">
                                          <span>Make Appointment</span> <i class="icon-arrow-right"></i>
@@ -26,21 +26,21 @@
                                  </div><!-- /.miniPopup-emergency -->
                              </li>
                              <li>
-                                 <i class="icon-phone"></i><a href="tel:+5565454117">Emergency Line: (002)
-                                     01061245741</a>
+                                 <i class="icon-phone"></i><a href="tel:+526241426192">
+                                    Appoinment: (624) 142 6192
+                                 </a>
                              </li>
                              <li>
-                                 <i class="icon-location"></i><a href="#">Location: Brooklyn, New York</a>
+                                 <i class="icon-location"></i><a target="_blank" href="https://goo.gl/maps/zctTaDHTz7g6LKbX6">Location: San Jose del Cabo</a>
                              </li>
                              <li>
-                                 <i class="icon-clock"></i><a href="contact-us.html">Mon - Fri: 8:00 am - 7:00 pm</a>
+                                 <i class="icon-clock"></i><a href="contact-us.html">Mon - Fri: 9:00 am - 5:00 pm</a>
                              </li>
                          </ul><!-- /.contact__list -->
                          <div class="d-flex">
                              <ul class="social-icons list-unstyled mb-0 mr-30">
                                  <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                  <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                              </ul><!-- /.social-icons -->
                          </div>
                      </div>
@@ -59,103 +59,51 @@
              </button>
              <div class="collapse navbar-collapse" id="mainNavigation">
                  <ul class="navbar-nav ml-auto">
-                     <li class="nav__item has-dropdown">
-                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link active">Home</a>
+                     <!-- <li class="nav__item has-dropdown">
+                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link active">Inicio</a>
                          <ul class="dropdown-menu">
                              <li class="nav__item">
                                  <a href="index.html" class="nav__item-link">Home Main</a>
-                             </li><!-- /.nav-item -->
+                             </li>
                              <li class="nav__item">
                                  <a href="home-modern.html" class="nav__item-link">Home Modern</a>
-                             </li><!-- /.nav-item -->
+                             </li>
                              <li class="nav__item">
                                  <a href="home-classic.html" class="nav__item-link">Home Classic</a>
-                             </li><!-- /.nav-item -->
+                             </li>
                              <li class="nav__item">
                                  <a href="home-dentist.html" class="nav__item-link">Home Dentist</a>
-                             </li><!-- /.nav-item -->
+                             </li>
                              <li class="nav__item">
                                  <a href="home-pharmacy.html" class="nav__item-link">Home pharmacy</a>
-                             </li><!-- /.nav-item -->
-                         </ul><!-- /.dropdown-menu -->
-                     </li><!-- /.nav-item -->
-                     <li class="nav__item has-dropdown">
-                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">About Us</a>
-                         <ul class="dropdown-menu">
-                             <li class="nav__item">
-                                 <a href="about-us.html" class="nav__item-link">About Us</a>
-                             </li><!-- /.nav-item -->
-                             <li class="nav__item">
-                                 <a href="services.html" class="nav__item-link">Our Services</a>
-                             </li><!-- /.nav-item -->
-                             <li class="nav__item">
-                                 <a href="services-single.html" class="nav__item-link">single Services</a>
-                             </li><!-- /.nav-item -->
-                             <li class="nav__item">
-                                 <a href="pricing.html" class="nav__item-link">Pricing & Plans</a>
-                             </li><!-- /.nav-item -->
-                             <li class="nav__item">
-                                 <a href="appointment.html" class="nav__item-link">Appointments</a>
-                             </li><!-- /.nav-item -->
-                             <li class="nav__item">
-                                 <a href="faqs.html" class="nav__item-link">Help & FAQs</a>
-                             </li> <!-- /.nav-item -->
-                             <li class="nav__item">
-                                 <a href="gallery.html" class="nav__item-link">Our Gallery</a>
-                             </li><!-- /.nav-item -->
-                         </ul><!-- /.dropdown-menu -->
-                     </li><!-- /.nav-item -->
-                     <li class="nav__item has-dropdown">
-                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Doctors</a>
-                         <ul class="dropdown-menu">
-                             <li class="nav__item">
-                                 <a href="doctors-timetable.html" class="nav__item-link">Doctors Timetable</a>
-                             </li> <!-- /.nav-item -->
-                             <li class="nav__item">
-                                 <a href="doctors-standard.html" class="nav__item-link">Our Doctors Standard</a>
-                             </li> <!-- /.nav-item -->
-                             <li class="nav__item">
-                                 <a href="doctors-modern.html" class="nav__item-link">Our Doctors Modern</a>
-                             </li> <!-- /.nav-item -->
-                             <li class="nav__item">
-                                 <a href="doctors-grid.html" class="nav__item-link">Our Doctors Grid</a>
-                             </li> <!-- /.nav-item -->
-                             <li class="nav__item">
-                                 <a href="doctors-single-doctor1.html" class="nav__item-link">Single Doctor 01</a>
-                             </li> <!-- /.nav-item -->
-                             <li class="nav__item">
-                                 <a href="doctors-single-doctor2.html" class="nav__item-link">Single Doctor 02</a>
-                             </li> <!-- /.nav-item -->
-                         </ul><!-- /.dropdown-menu -->
-                     </li><!-- /.nav-item -->
-                     <li class="nav__item has-dropdown">
-                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Blog</a>
-                         <ul class="dropdown-menu">
-                             <li class="nav__item">
-                                 <a href="blog.html" class="nav__item-link">Blog Grid</a>
-                             </li><!-- /.nav-item -->
-                             <li class="nav__item">
-                                 <a href="blog-single-post.html" class="nav__item-link">Single Blog Post</a>
-                             </li><!-- /.nav-item -->
-                         </ul><!-- /.dropdown-menu -->
-                     </li><!-- /.nav-item -->
-                     <li class="nav__item has-dropdown">
-                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Shop</a>
-                         <ul class="dropdown-menu">
-                             <li class="nav__item">
-                                 <a href="shop.html" class="nav__item-link">Our Products</a>
-                             </li><!-- /.nav-item -->
-                             <li class="nav__item">
-                                 <a href="shop-single-product.html" class="nav__item-link">Products Single</a>
-                             </li><!-- /.nav-item -->
-                             <li class="nav__item">
-                                 <a href="cart.html" class="nav__item-link">Cart</a>
-                             </li><!-- /.nav-item -->
-                         </ul><!-- /.dropdown-menu -->
-                     </li><!-- /.nav-item -->
+                             </li>
+                         </ul>
+                     </li> -->
                      <li class="nav__item">
-                         <a href="contact-us.html" class="nav__item-link">Contacts</a>
-                     </li><!-- /.nav-item -->
+                         <a href="/" class="nav__item-link">Inicio</a>
+                     </li>
+                     <li class="nav__item">
+                         <a href="/" class="nav__item-link">About Us</a>
+                     </li>
+                     <li class="nav__item">
+                         <a href="/" class="nav__item-link">Services</a>
+                     </li>
+                     <li class="nav__item">
+                         <a href="/" class="nav__item-link">Consultation</a>
+                     </li>
+                     <li class="nav__item">
+                         <a href="/" class="nav__item-link">Our Staff</a>
+                     </li>
+                     <li class="nav__item">
+                         <a href="/" class="nav__item-link">Smile Gallery</a>
+                     </li>
+                     <li class="nav__item">
+                         <a href="/" class="nav__item-link">Testimonial</a>
+                     </li>
+                     <li class="nav__item">
+                         <a href="/" class="nav__item-link">Contacts</a>
+                     </li>
+
                  </ul><!-- /.navbar-nav -->
                  <button class="close-mobile-menu d-block d-lg-none"><i class="fas fa-times"></i></button>
              </div><!-- /.navbar-collapse -->
