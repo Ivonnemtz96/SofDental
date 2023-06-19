@@ -51,8 +51,8 @@
      <nav class="navbar navbar-expand-lg sticky-navbar">
          <div class="container-fluid">
              <a class="navbar-brand" href="index.html">
-                 <img src="assets/images/logo/logo-light.png" class="logo-light" alt="logo">
-                 <img src="assets/images/logo/logo-dark.png" class="logo-dark" alt="logo">
+                 <img src="/assets/images/logo/logo-light.png" class="logo-light" alt="logo">
+                 <img src="/assets/images/logo/logo-dark.png" class="logo-dark" alt="logo">
              </a>
              <button class="navbar-toggler" type="button">
                  <span class="menu-lines"><span></span></span>
@@ -80,25 +80,25 @@
                          </ul>
                      </li> -->
                      <li class="nav__item">
-                         <a href="contact-us.html" class="nav__item-link">Home</a>
+                         <a href="/" class="nav__item-link">Home</a>
                      </li>
                      <li class="nav__item">
-                         <a href="contact-us.html" class="nav__item-link">About Us</a>
+                         <a href="/about" class="nav__item-link">About Us</a>
                      </li>
                      <li class="nav__item">
-                         <a href="contact-us.html" class="nav__item-link">Services</a>
+                         <a href="/" class="nav__item-link">Services</a>
                      </li>
                      <li class="nav__item">
-                         <a href="contact-us.html" class="nav__item-link">Consultation</a>
+                         <a href="/" class="nav__item-link">Consultation</a>
                      </li>
                      <li class="nav__item">
-                         <a href="contact-us.html" class="nav__item-link">Our Staff</a>
+                         <a href="/" class="nav__item-link">Our Staff</a>
                      </li>
                      <li class="nav__item">
-                         <a href="contact-us.html" class="nav__item-link">Smile Gallery</a>
+                         <a href="/" class="nav__item-link">Smile Gallery</a>
                      </li>
                      <li class="nav__item">
-                         <a href="contact-us.html" class="nav__item-link">Contacts</a>
+                         <a href="/" class="nav__item-link">Contacts</a>
                      </li>
                  </ul><!-- /.navbar-nav -->
                  <button class="close-mobile-menu d-block d-lg-none"><i class="fas fa-times"></i></button>
