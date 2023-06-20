@@ -95,7 +95,7 @@
                          <a href="/" class="nav__item-link">Our Staff</a>
                      </li>
                      <li class="nav__item">
-                         <a href="/" class="nav__item-link">Smile Gallery</a>
+                         <a href="/" class="nav__item-link">Gallery</a>
                      </li>
                      <li class="nav__item">
                          <a href="/" class="nav__item-link">Contacts</a>
