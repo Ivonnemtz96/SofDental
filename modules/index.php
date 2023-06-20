@@ -5,94 +5,36 @@
     <div class="slick-carousel m-slides-0"
         data-slick='{"slidesToShow": 1, "arrows": true, "dots": false, "speed": 700,"fade": true,"cssEase": "linear"}'>
         <div class="slide-item align-v-h">
-            <div class="bg-img"><img src="/assets/images/sliders/1.jpg" alt="slide img"></div>
+            <div class="bg-img"><img src="/assets/images/sliders/1.jpg?=1" alt="slide img"></div>
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
                         <div class="slide__content">
-                            <h2 class="slide__title">Take care of your smile with us</h2>
-                            <p class="slide__desc">
+                            <h2 class="slide__title text-white">Take care of your smile with us</h2>
+                            <p class="slide__desc" style="color: #fff;">
                                 At our dental office, we care about your oral wellness and provide a personalized
                                 approach for each patient. Come and discover how we can transform your dental health in
                                 a comprehensive way.
                             </p>
-                            <ul class="features-list list-unstyled mb-0 d-flex flex-wrap">
-                                <!-- feature item #1 -->
-                                <li class="feature-item">
-                                    <div class="feature__icon">
-                                        <i class="icon-heart"></i>
-                                    </div>
-                                    <h2 class="feature__title">Examination</h2>
-                                </li><!-- /.feature-item-->
-                                <!-- feature item #2 -->
-                                <li class="feature-item">
-                                    <div class="feature__icon">
-                                        <i class="icon-medicine"></i>
-                                    </div>
-                                    <h2 class="feature__title">Extractions </h2>
-                                </li><!-- /.feature-item-->
-                                <!-- feature item #3 -->
-                                <li class="feature-item">
-                                    <div class="feature__icon">
-                                        <i class="icon-heart2"></i>
-                                    </div>
-                                    <h2 class="feature__title">Root canals</h2>
-                                </li><!-- /.feature-item-->
-                                <!-- feature item #4 -->
-                                <li class="feature-item">
-                                    <div class="feature__icon">
-                                        <i class="icon-blood-test"></i>
-                                    </div>
-                                    <h2 class="feature__title">Orthodontics</h2>
-                                </li><!-- /.feature-item-->
-                            </ul><!-- /.features-list -->
+                            
                         </div><!-- /.slide-content -->
                     </div><!-- /.col-xl-7 -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </div><!-- /.slide-item -->
         <div class="slide-item align-v-h">
-            <div class="bg-img"><img src="/assets/images/sliders/2.jpg" alt="slide img"></div>
+            <div class="bg-img"><img src="/assets/images/sliders/2.jpg?=1" alt="slide img"></div>
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
                         <div class="slide__content">
-                            <h2 class="slide__title">Dental Care Experts</h2>
-                            <p class="slide__desc">
+                            <h2 class="slide__title" style="color: #fff;">Dental Care Experts</h2>
+                            <p class="slide__desc" style="color: #fff;">
                                 Our goal is to make every visit to our office comfortable and stress-free. With
                                 state-of-the-art technology and a friendly team, we will provide you with the best
                                 dental treatments, from regular cleanings to implants and orthodontics.
                             </p>
-                            <ul class="features-list list-unstyled mb-0 d-flex flex-wrap">
-                                <!-- feature item #1 -->
-                                <li class="feature-item">
-                                    <div class="feature__icon">
-                                        <i class="icon-heart"></i>
-                                    </div>
-                                    <h2 class="feature__title">Examination</h2>
-                                </li><!-- /.feature-item-->
-                                <!-- feature item #2 -->
-                                <li class="feature-item">
-                                    <div class="feature__icon">
-                                        <i class="icon-medicine"></i>
-                                    </div>
-                                    <h2 class="feature__title">Extractions </h2>
-                                </li><!-- /.feature-item-->
-                                <!-- feature item #3 -->
-                                <li class="feature-item">
-                                    <div class="feature__icon">
-                                        <i class="icon-heart2"></i>
-                                    </div>
-                                    <h2 class="feature__title">Root canals</h2>
-                                </li><!-- /.feature-item-->
-                                <!-- feature item #4 -->
-                                <li class="feature-item">
-                                    <div class="feature__icon">
-                                        <i class="icon-blood-test"></i>
-                                    </div>
-                                    <h2 class="feature__title">Orthodontics</h2>
-                                </li><!-- /.feature-item-->
-                            </ul><!-- /.features-list -->
+                            
                         </div><!-- /.slide-content -->
                     </div><!-- /.col-xl-7 -->
                 </div><!-- /.row -->
@@ -135,7 +77,7 @@
                             At Soft Dental Care, we pride ourselves on offering a calm and relaxing environment, where
                             your needs and comfort are our priority.
                         </p>
-                        <a href="doctors-timetable.html" class="btn btn__white btn__outlined btn__rounded">
+                        <a href="/services" class="btn btn__white btn__outlined btn__rounded">
                             <span>View Services</span><i class="icon-arrow-right"></i>
                         </a>
                     </div><!-- /.contact__content -->
@@ -184,13 +126,13 @@
                             hope you will allow us to take care of you and we strive to be your first and best choice
                             for smile care.
                         </p>
-                        <a href="doctors-timetable.html" class="btn btn__secondary btn__rounded mb-70">
+                        <a href="/contact" class="btn btn__secondary btn__rounded mb-70">
                             <span>Appointment</span> <i class="icon-arrow-right"></i>
                         </a>
                     </div>
                 </div>
                 <div class="video-banner-layout2 bg-overlay">
-                    <img src="/assets/images/about/2.jpg" alt="about" class="w-100">
+                    <img src="/assets/images/about/2.jpg?=1" alt="about" class="w-100">
                     <a class="video__btn video__btn-white popup-video"
                         href="https://www.youtube.com/watch?v=nrJtHemSPW4">
                         <div class="video__player">
@@ -260,8 +202,7 @@
                     <!-- service item #1 -->
                     <div class="service-item">
                         <div class="service__icon">
-                            <i class="icon-head"></i>
-                            <i class="icon-head"></i>
+                            <img style="width: 5rem;" src="/assets/images/icons/1.png" alt="">
                         </div><!-- /.service__icon -->
                         <div class="service__content">
                             <h4 class="service__title">Amalgam/Mercury Fillings Removal</h4>
@@ -275,8 +216,8 @@
                                 <li>Neuro Oncology</li>
                                 <li>Geriatric Neurology</li>
                             </ul> -->
-                            <a href="services-single.html" class="btn btn__secondary btn__outlined btn__rounded">
-                                <span>Read More</span>
+                            <a href="/contact" class="btn btn__secondary btn__outlined btn__rounded">
+                                <span>Contact Us</span>
                                 <i class="icon-arrow-right"></i>
                             </a>
                         </div><!-- /.service__content -->
@@ -284,8 +225,7 @@
                     <!-- service item #2 -->
                     <div class="service-item">
                         <div class="service__icon">
-                            <i class="icon-heart"></i>
-                            <i class="icon-heart"></i>
+                        <img style="width: 5rem;" src="/assets/images/icons/2.png" alt="">
                         </div><!-- /.service__icon -->
                         <div class="service__content">
                             <h4 class="service__title">Bolding or Composite Resin Filling</h4>
@@ -298,8 +238,8 @@
                                 <li>Neuro Oncology</li>
                                 <li>Geriatric Neurology</li>
                             </ul> -->
-                            <a href="services-single.html" class="btn btn__secondary btn__outlined btn__rounded">
-                                <span>Read More</span>
+                            <a href="/contact" class="btn btn__secondary btn__outlined btn__rounded">
+                                <span>Contact Us</span>
                                 <i class="icon-arrow-right"></i>
                             </a>
                         </div><!-- /.service__content -->
@@ -307,8 +247,7 @@
                     <!-- service item #3 -->
                     <div class="service-item">
                         <div class="service__icon">
-                            <i class="icon-microscope"></i>
-                            <i class="icon-microscope"></i>
+                        <img style="width: 5rem;" src="/assets/images/icons/3.png" alt="">
                         </div><!-- /.service__icon -->
                         <div class="service__content">
                             <h4 class="service__title">Cosmetic Dentistry</h4>
@@ -322,8 +261,8 @@
                                 <li>Histopathology</li>
                                 <li>Cytopathology </li>
                             </ul> -->
-                            <a href="services-single.html" class="btn btn__secondary btn__outlined btn__rounded">
-                                <span>Read More</span>
+                            <a href="/contact" class="btn btn__secondary btn__outlined btn__rounded">
+                                <span>Contact Us</span>
                                 <i class="icon-arrow-right"></i>
                             </a>
                         </div><!-- /.service__content -->
@@ -331,8 +270,7 @@
                     <!-- service item #4 -->
                     <div class="service-item">
                         <div class="service__icon">
-                            <i class="icon-dropper"></i>
-                            <i class="icon-dropper"></i>
+                        <img style="width: 5rem;" src="/assets/images/icons/4.png" alt="">
                         </div><!-- /.service__icon -->
                         <div class="service__content">
                             <h4 class="service__title">Cosmetic Recontouring</h4>
@@ -345,8 +283,8 @@
                                 <li>Umbilical Cord Appearance </li>
                                 <li>Repositioning Techniques</li>
                             </ul> -->
-                            <a href="services-single.html" class="btn btn__secondary btn__outlined btn__rounded">
-                                <span>Read More</span>
+                            <a href="/contact" class="btn btn__secondary btn__outlined btn__rounded">
+                                <span>Contact Us</span>
                                 <i class="icon-arrow-right"></i>
                             </a>
                         </div><!-- /.service__content -->
@@ -354,8 +292,7 @@
                     <!-- service item #5 -->
                     <div class="service-item">
                         <div class="service__icon">
-                            <i class="icon-heart3"></i>
-                            <i class="icon-heart3"></i>
+                        <img style="width: 5rem;" src="/assets/images/icons/7.png" alt="">
                         </div><!-- /.service__icon -->
                         <div class="service__content">
                             <h4 class="service__title">Dentures</h4>
@@ -368,8 +305,8 @@
                                 <li>Research Analyst</li>
                                 <li>Quality Assurance</li>
                             </ul> -->
-                            <a href="services-single.html" class="btn btn__secondary btn__outlined btn__rounded">
-                                <span>Read More</span>
+                            <a href="/contact" class="btn btn__secondary btn__outlined btn__rounded">
+                                <span>Contact Us</span>
                                 <i class="icon-arrow-right"></i>
                             </a>
                         </div><!-- /.service__content -->
@@ -377,8 +314,7 @@
                     <!-- service item #6 -->
                     <div class="service-item">
                         <div class="service__icon">
-                            <i class="icon-heart2"></i>
-                            <i class="icon-heart2"></i>
+                        <img style="width: 5rem;" src="/assets/images/icons/9.png" alt="">
                         </div><!-- /.service__icon -->
                         <div class="service__content">
                             <h4 class="service__title">Extractions</h4>
@@ -386,8 +322,8 @@
                                 Extractions refer to the removal of a tooth from its socket in the jawbone. This dental
                                 procedure may be necessary in cases of severe decay, infection, overcrowding.
                             </p>
-                            <a href="services-single.html" class="btn btn__secondary btn__outlined btn__rounded">
-                                <span>Read More</span>
+                            <a href="/contact" class="btn btn__secondary btn__outlined btn__rounded">
+                                <span>Contact Us</span>
                                 <i class="icon-arrow-right"></i>
                             </a>
                         </div><!-- /.service__content -->
@@ -396,7 +332,7 @@
             </div>
             <!-- /.col-12 -->
             <div class="col-md-4 text-center" style="margin-top: 4rem;">
-                <a href="services-single.html" class="btn btn__secondary btn__outlined btn__rounded">
+                <a href="/services" class="btn btn__secondary btn__outlined btn__rounded">
                     <span>More services</span>
                     <i class="icon-arrow-right"></i>
                 </a>
@@ -409,11 +345,11 @@
      Work Process 
     ========================= -->
 <section class="work-process work-process-carousel pt-130 pb-0 bg-overlay bg-overlay-secondary">
-    <div class="bg-img"><img src="/assets/images/banners/1.jpg" alt="background"></div>
+    <div class="bg-img"><img src="/assets/images/banners/1.jpg?=1" alt="background"></div>
     <div class="container">
         <div class="row heading-layout2">
             <div class="col-12">
-                <h2 class="heading__subtitle color-primary">The Confidence of a Healthy Smile.</h2>
+                <h2 class="heading__subtitle" style="color:#fff">The Confidence of a Healthy Smile.</h2>
             </div><!-- /.col-12 -->
             <div class="col-sm-12 col-md-12 col-lg-6 col-xl-5">
                 <h3 class="heading__title color-white">
@@ -450,7 +386,7 @@
                 </ul>
             </div><!-- /.col-xl-6 -->
         </div><!-- /.row -->
-        <div class="row">
+        <div hidden class="row">
             <div class="col-12">
                 <div class="carousel-container mt-90">
                     <div class="slick-carousel"
@@ -466,10 +402,10 @@
                                 income, you
                                 can
                                 enroll.</p> -->
-                            <a href="#" class="btn btn__secondary btn__link">
+                            <!-- <a href="#" class="btn btn__secondary btn__link">
                                 <span>Doctors’ Timetable</span>
                                 <i class="icon-arrow-right"></i>
-                            </a>
+                            </a> -->
                         </div><!-- /.process-item -->
                         <!-- process-item #2 -->
                         <div class="process-item">
@@ -481,10 +417,10 @@
                             <!-- <p class="process__desc">Regular health exams can help find all the problems, also can find
                                 it early
                                 chances.</p> -->
-                            <a href="#" class="btn btn__secondary btn__link">
+                            <!-- <a href="#" class="btn btn__secondary btn__link">
                                 <span>Start A Check Up</span>
                                 <i class="icon-arrow-right"></i>
-                            </a>
+                            </a> -->
                         </div><!-- /.process-item -->
                         <!-- process-item #3 -->
                         <div class="process-item">
@@ -497,10 +433,10 @@
                                 provide
                                 necessary
                                 care.</p> -->
-                            <a href="#" class="btn btn__secondary btn__link">
+                            <!-- <a href="#" class="btn btn__secondary btn__link">
                                 <span>Explore Programs</span>
                                 <i class="icon-arrow-right"></i>
-                            </a>
+                            </a> -->
                         </div><!-- /.process-item -->
                         <!-- process-item #4 -->
                         <div class="process-item">
@@ -512,10 +448,10 @@
                             <!-- <p class="process__desc">Our administration and support staff have exceptional skills and
                                 trained to
                                 assist you. </p> -->
-                            <a href="#" class="btn btn__secondary btn__link">
+                            <!-- <a href="#" class="btn btn__secondary btn__link">
                                 <span>Meet Our Doctors</span>
                                 <i class="icon-arrow-right"></i>
-                            </a>
+                            </a> -->
                         </div><!-- /.process-item -->
                     </div>
                 </div><!-- /.col-12 -->

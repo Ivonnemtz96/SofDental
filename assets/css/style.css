@@ -1018,7 +1018,7 @@ textarea {
 }
 
 .bg-overlay-secondary:before {
-  background-color: rgba(33, 51, 96, 0.93);
+  background-color: rgba(212, 129, 195, .6);
 }
 
 .bg-overlay-primary:before {

@@ -50,7 +50,7 @@
      </div><!-- /.header-top -->
      <nav class="navbar navbar-expand-lg sticky-navbar">
          <div class="container-fluid">
-             <a class="navbar-brand" href="index.html">
+             <a class="navbar-brand" href="/">
                  <img src="/assets/images/logo/logo-light.png" class="logo-light" alt="logo">
                  <img src="/assets/images/logo/logo-dark.png" class="logo-dark" alt="logo">
              </a>
@@ -92,7 +92,7 @@
                          <a href="/consultation" class="nav__item-link">Consultation</a>
                      </li>
                      <li class="nav__item">
-                         <a href="/" class="nav__item-link">Our Staff</a>
+                         <a href="/staff" class="nav__item-link">Our Staff</a>
                      </li>
                      <li class="nav__item">
                          <a href="/" class="nav__item-link">Gallery</a>
@@ -104,7 +104,7 @@
                  <button class="close-mobile-menu d-block d-lg-none"><i class="fas fa-times"></i></button>
              </div><!-- /.navbar-collapse -->
              <div class="d-none d-xl-flex align-items-center position-relative ml-30"> <!-- /.miniPopup-departments -->
-                 <a href="appointment.html" class="btn btn__primary btn__rounded ml-30">
+                 <a href="/contact" class="btn btn__primary btn__rounded ml-30">
                      <i class="icon-calendar"></i>
                      <span>Appointment</span>
                  </a>

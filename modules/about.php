@@ -68,6 +68,77 @@
 </section><!-- /.About Layout 1 -->
 
 
+
+<!-- ========================
+        Team layout 1
+    ========================== -->
+<section class="team-layout1 pb-40">
+    <div class="container">
+        <div class="row justify-content-center">
+            <h2>Our Staff</h2>
+            <div class="col-md-12">
+                <p>
+                    Our English speaking dentists are among the best in their field and we are proud of them. Our
+                    doctors and clinic have been featured on ABC TV, radio interviews and in numerous American and
+                    Mexican newspaper articles and stories on the Internet.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row justify-content-around">
+            <!-- Member #1 -->
+            <div class="col-sm-6 col-md-4 col-lg-4">
+                <div class="member">
+                    <div class="member__img">
+                        <img src="/assets/images/team/1.jpg?=1" alt="member img">
+                        <!-- <div class="member__hover">
+                            <ul class="social-icons list-unstyled mb-0">
+                                <li><a href="#" class="facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#" class="twitter"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#" class="phone"><i class="fas fa-phone-alt"></i></a></li>
+                            </ul>
+                        </div> -->
+                    </div>
+                    <div class="member__info">
+                        <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr. Rosa Elena Peña</a></h5>
+                        <p class="member__job">Dentist</p>
+                        <!-- <p class="member__desc">Muldoone obtained his undergraduate degree in Biomedical Engineering at
+                            Tulane
+                            University prior to attending St George's University School of Medicine</p> -->
+                    </div><!-- /.member-info -->
+                </div><!-- /.member -->
+            </div>
+
+            <!-- Member #2 -->
+            <div class="col-sm-6 col-md-4 col-lg-4">
+                <div class="member">
+                    <div class="member__img">
+                        <img src="/assets/images/team/2.jpg?=1" alt="member img">
+                        <!-- <div class="member__hover">
+                            <ul class="social-icons list-unstyled mb-0">
+                                <li><a href="#" class="facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#" class="twitter"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#" class="phone"><i class="fas fa-phone-alt"></i></a></li>
+                            </ul>
+                        </div>
+                    </div> -->
+                        <div class="member__info">
+                            <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr. Alberto Vazquez</a></h5>
+                            <p class="member__job">On House Anestesiology</p>
+                            <!-- <p class="member__desc">Brian specializes in treating skin, hair, nail, and mucous membrane. He
+                            also
+                            address cosmetic issues, helping to revitalize the appearance of the skin</p> -->
+                        </div><!-- /.member-info -->
+                    </div><!-- /.member -->
+                </div>
+
+            </div>
+        </div><!-- /.container -->
+</section><!-- /.Team layout 1  -->
+
+
+
 <!-- ======================
      Work Process 
     ========================= -->
@@ -95,98 +166,3 @@
     </div><!-- /.cta -->
 </section>
 <!-- /.Work Process -->
-
-
-<!-- ========================= 
-      Testimonials layout 1
-      =========================  -->
-<section class="testimonials-layout1 pt-130 pb-80">
-    <div class="container">
-        <div class="testimonials-wrapper">
-            <div class="row">
-                <div class="col-sm-12 col-md-12 col-lg-7 offset-lg-5">
-                    <div class="heading-layout2">
-                        <h3 class="heading__title">Inspiring Stories!</h3>
-                    </div><!-- /.heading -->
-                </div><!-- /.col-lg-7 -->
-                <div class="col-sm-12 col-md-12 col-lg-5">
-                    <div class="slider-nav mb-60">
-                        <div class="testimonial__meta">
-                            <div class="testimonial__thmb">
-                                <img src="/assets/images/testimonials/thumbs/1.png" alt="author thumb">
-                            </div><!-- /.testimonial-thumb -->
-                            <div>
-                                <h4 class="testimonial__meta-title">Sami Wade</h4>
-                                <p class="testimonial__meta-desc">7oroof Inc</p>
-                            </div>
-                        </div><!-- /.testimonial-meta -->
-                        <div class="testimonial__meta">
-                            <div class="testimonial__thmb">
-                                <img src="/assets/images/testimonials/thumbs/2.png" alt="author thumb">
-                            </div><!-- /.testimonial-thumb -->
-                            <div>
-                                <h4 class="testimonial__meta-title">Ahmed</h4>
-                                <p class="testimonial__meta-desc">Web Inc</p>
-                            </div>
-                        </div><!-- /.testimonial-meta -->
-                        <div class="testimonial__meta">
-                            <div class="testimonial__thmb">
-                                <img src="/assets/images/testimonials/thumbs/3.png" alt="author thumb">
-                            </div><!-- /.testimonial-thumb -->
-                            <div>
-                                <h4 class="testimonial__meta-title">Sonia Blake</h4>
-                                <p class="testimonial__meta-desc">Web Inc</p>
-                            </div>
-                        </div><!-- /.testimonial-meta -->
-                    </div><!-- /.slider-nav -->
-                </div><!-- /.col-lg-5 -->
-                <div class="col-sm-12 col-md-12 col-lg-7">
-                    <div class="slider-with-navs">
-                        <!-- Testimonial #1 -->
-                        <div class="testimonial-item">
-                            <h3 class="testimonial__title">“Their doctors include highly qualified practitioners who
-                                come from a
-                                range of backgrounds and bring with them a diversity of skills and special interests.
-                                They also have
-                                registered nurses on staff who are available to triage any urgent matters, and the
-                                administration
-                                and support staff all have exceptional people skills”
-                            </h3>
-                        </div><!-- /. testimonial-item -->
-                        <!-- Testimonial #2 -->
-                        <div class="testimonial-item">
-                            <h3 class="testimonial__title">“Their doctors include highly qualified practitioners who
-                                come from a
-                                range of backgrounds and bring with them a diversity of skills and special interests.
-                                They also have
-                                registered nurses on staff who are available to triage any urgent matters, and the
-                                administration
-                                and support staff all have exceptional people skills”
-                            </h3>
-                        </div><!-- /. testimonial-item -->
-                        <!-- Testimonial #3 -->
-                        <div class="testimonial-item">
-                            <h3 class="testimonial__title">“Their doctors include highly qualified practitioners who
-                                come from a
-                                range of backgrounds and bring with them a diversity of skills and special interests.
-                                They also have
-                                registered nurses on staff who are available to triage any urgent matters, and the
-                                administration
-                                and support staff all have exceptional people skills”
-                            </h3>
-                        </div><!-- /. testimonial-item -->
-                    </div><!-- /.slick-carousel -->
-                    <div class="testimonials__rating">
-                        <div class="testimonials__rating-inner d-flex align-items-center">
-                            <span class="total__rate">4.9</span>
-                            <div>
-                                <span class="overall__rate">Zocdoc Overall Rating</span>
-                                <span>, based on 7541 reviews.</span>
-                            </div>
-                        </div><!-- /.testimonials__rating-inner -->
-                    </div><!-- /.testimonials__rating -->
-                </div><!-- /.col-lg-7 -->
-            </div><!-- /.row -->
-        </div><!-- /.testimonials-wrapper -->
-    </div><!-- /.container -->
-</section><!-- /.testimonials layout 1 -->
