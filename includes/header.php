@@ -89,7 +89,7 @@
                          <a href="/services" class="nav__item-link">Services</a>
                      </li>
                      <li class="nav__item">
-                         <a href="/" class="nav__item-link">Consultation</a>
+                         <a href="/consultation" class="nav__item-link">Consultation</a>
                      </li>
                      <li class="nav__item">
                          <a href="/" class="nav__item-link">Our Staff</a>
@@ -98,7 +98,7 @@
                          <a href="/" class="nav__item-link">Gallery</a>
                      </li>
                      <li class="nav__item">
-                         <a href="/" class="nav__item-link">Contacts</a>
+                         <a href="/contact" class="nav__item-link">Contacts</a>
                      </li>
                  </ul><!-- /.navbar-nav -->
                  <button class="close-mobile-menu d-block d-lg-none"><i class="fas fa-times"></i></button>
