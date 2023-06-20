@@ -33,8 +33,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-head"></i>
-                         <i class="icon-head"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/1.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Amalgam/Mercury Fillings Removal</h4>
@@ -59,8 +58,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-heart"></i>
-                         <i class="icon-heart"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/2.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Bolding or Composite Resin Filling</h4>
@@ -84,8 +82,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-microscope"></i>
-                         <i class="icon-microscope"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/3.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Cosmetic Dentistry</h4>
@@ -110,8 +107,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-dropper"></i>
-                         <i class="icon-dropper"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/4.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Cosmetic Recontouring</h4>
@@ -135,8 +131,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-heart3"></i>
-                         <i class="icon-heart3"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/7.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Dentures</h4>
@@ -160,8 +155,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-heart2"></i>
-                         <i class="icon-heart2"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/9.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Extractions</h4>
@@ -181,8 +175,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-heart2"></i>
-                         <i class="icon-heart2"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/11.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">One-Day Implants</h4>
@@ -202,8 +195,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-heart2"></i>
-                         <i class="icon-heart2"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/12.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Dental Implant Details</h4>
@@ -222,8 +214,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-heart2"></i>
-                         <i class="icon-heart2"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/13.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Partials</h4>
@@ -242,8 +233,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-heart2"></i>
-                         <i class="icon-heart2"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/14.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Porcelain Crowns & Veneers</h4>
@@ -262,8 +252,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-heart2"></i>
-                         <i class="icon-heart2"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/15.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Porcelain Inlay</h4>
@@ -282,8 +271,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-heart2"></i>
-                         <i class="icon-heart2"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/17.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Whitening</h4>
@@ -302,8 +290,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-heart2"></i>
-                         <i class="icon-heart2"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/18.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Oral Surgeries and Periodontal Treatments</h4>
@@ -322,8 +309,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-heart2"></i>
-                         <i class="icon-heart2"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/8.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Root Canals</h4>
@@ -342,8 +328,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-heart2"></i>
-                         <i class="icon-heart2"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/19.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Orthodontics</h4>
@@ -363,8 +348,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-heart2"></i>
-                         <i class="icon-heart2"></i>
+                     <img style="width: 5rem;" src="/assets/images/icons/20.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Implants all in 4</h4>
@@ -386,8 +370,7 @@
              <div class="col-sm-12 col-md-6 col-lg-4">
                  <div class="service-item">
                      <div class="service__icon">
-                         <i class="icon-heart2"></i>
-                         <i class="icon-heart2"></i>
+                         <img style="width: 5rem;" src="/assets/images/icons/20.png" alt="">
                      </div><!-- /.service__icon -->
                      <div class="service__content">
                          <h4 class="service__title">Implants all in 6</h4>
