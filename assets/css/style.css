@@ -1026,9 +1026,9 @@ textarea {
 }
 
 .bg-overlay-primary-gradient:before {
-  opacity: 0.95;
+  opacity: 0.75;
   background-color: transparent;
-  background-image: linear-gradient(180deg, rgba(33, 205, 192, 0.9490196078) 19%, #ed009e 71%);
+  background-image: linear-gradient(180deg, rgba(234, 163, 236, 0.95) 19%, #e175bd 71%);
 }
 
 .bg-overlay-secondary-gradient:before {

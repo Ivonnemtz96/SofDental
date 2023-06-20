@@ -86,7 +86,7 @@
                          <a href="/about" class="nav__item-link">About Us</a>
                      </li>
                      <li class="nav__item">
-                         <a href="/" class="nav__item-link">Services</a>
+                         <a href="/services" class="nav__item-link">Services</a>
                      </li>
                      <li class="nav__item">
                          <a href="/" class="nav__item-link">Consultation</a>
