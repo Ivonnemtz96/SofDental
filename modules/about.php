@@ -52,7 +52,7 @@
                         conveniently close to the clinic. <br>
                     </p>
                     <div class="d-flex align-items-center mb-30">
-                        <a href="doctors-grid.html" class="btn btn__primary btn__outlined btn__rounded mr-30">
+                        <a href="/contact" class="btn btn__primary btn__outlined btn__rounded mr-30">
                             Make an Appointment</a>
                         <!-- <img src="/assets/images/about/singnture.png" alt="singnture"> -->
                     </div>
@@ -101,7 +101,7 @@
                         </div> -->
                     </div>
                     <div class="member__info">
-                        <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr. Rosa Elena Peña</a></h5>
+                        <h5 class="member__name"><a href="#">Dr. Rosa Elena Peña</a></h5>
                         <p class="member__job">Dentist</p>
                         <!-- <p class="member__desc">Muldoone obtained his undergraduate degree in Biomedical Engineering at
                             Tulane
@@ -124,7 +124,7 @@
                         </div>
                     </div> -->
                         <div class="member__info">
-                            <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr. Alberto Vazquez</a></h5>
+                            <h5 class="member__name"><a href="#">Dr. Alberto Vazquez</a></h5>
                             <p class="member__job">On House Anestesiology</p>
                             <!-- <p class="member__desc">Brian specializes in treating skin, hair, nail, and mucous membrane. He
                             also
@@ -147,7 +147,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-sm-12 col-md-2 col-lg-2">
-                    <img src="/assets/images/icons/alert.png" class="cta__img" alt="alert">
+                    <img src="/assets/images/icons/10.png" class="cta__img" alt="alert">
                 </div><!-- /.col-lg-2 -->
                 <div class="col-sm-12 col-md-7 col-lg-7">
                     <h4 class="cta__title">We are dedicated to oral health.</h4>
@@ -156,7 +156,7 @@
                     </p>
                 </div><!-- /.col-lg-7 -->
                 <div class="col-sm-12 col-md-12 col-lg-3">
-                    <a href="appointment.html" class="btn btn__secondary btn__secondary-style2 btn__rounded mr-30">
+                    <a href="tel:+526241422459" class="btn btn__secondary btn__secondary-style2 btn__rounded mr-30">
                         <span>Call Us</span>
                         <i class="icon-arrow-right"></i>
                     </a>
