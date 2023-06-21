@@ -137,7 +137,7 @@
                      </p>
                      
                      <div class="d-flex align-items-center mb-30 text-center">
-                         <a href="doctors-grid.html" class="btn btn__primary btn__outlined btn__rounded mr-30">
+                         <a href="/contact" class="btn btn__primary btn__outlined btn__rounded mr-30">
                              Make an Appointment</a>
                          <!-- <img src="/assets/images/about/singnture.png" alt="singnture"> -->
                      </div>

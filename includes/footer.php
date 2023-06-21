@@ -1,8 +1,8 @@
  <!-- ========================
       Footer
     ========================== -->
- <footer class="footer">
-     <div class="footer-primary">
+ <footer class="footer p-0">
+     <div hidden class="footer-primary">
          <div class="container">
              <div class="row">
                  <div class="col-sm-12 col-md-12 col-lg-3">
@@ -74,22 +74,14 @@
              </div><!-- /.row -->
          </div><!-- /.container -->
      </div><!-- /.footer-primary -->
-     <div class="footer-secondary">
+     <div class="footer-secondary" style="background-color: #ed009e;">
          <div class="container">
-             <div class="row align-items-center">
-                 <div class="col-sm-12 col-md-6 col-lg-6">
-                     <span class="fz-14">&copy; 2020 DataSoft, All Rights Reserved. With Love by</span>
-                     <a class="fz-14 color-primary" href="http://themeforest.net/user/7oroof">7oroof.com</a>
+             <div class="row align-items-center justify-content-center">
+                 <div class="col-sm-12 col-md-12 col-lg-12 text-center">
+                     <span class="fz-14" style="color: #fff;">&copy; 2023 Cabo Soft Dental Care. Develop by</span>
+                     <a class="fz-14"  style="color: #fff;"href="http://bananagroup.mx"><strong>Banana Group Marketing</strong></a>
                  </div><!-- /.col-lg-6 -->
-                 <div class="col-sm-12 col-md-6 col-lg-6">
-                     <nav>
-                         <ul class="list-unstyled footer__copyright-links d-flex flex-wrap justify-content-end mb-0">
-                             <li><a href="#">Terms & Conditions</a></li>
-                             <li><a href="#">Privacy Policy</a></li>
-                             <li><a href="#">Cookies</a></li>
-                         </ul>
-                     </nav>
-                 </div><!-- /.col-lg-6 -->
+            <!-- /.col-lg-6 -->
              </div><!-- /.row -->
          </div><!-- /.container -->
      </div><!-- /.footer-secondary -->

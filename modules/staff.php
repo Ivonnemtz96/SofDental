@@ -46,7 +46,7 @@
                         </div> -->
                      </div>
                      <div class="member__info">
-                         <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr. Rosa Elena Peña</a></h5>
+                         <h5 class="member__name"><a href="#">Dr. Rosa Elena Peña</a></h5>
                          <p class="member__job">Dentist</p>
                          <!-- <p class="member__desc">Muldoone obtained his undergraduate degree in Biomedical Engineering at
                             Tulane
@@ -69,7 +69,7 @@
                         </div>
                     </div> -->
                          <div class="member__info">
-                             <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr. Alberto Vazquez</a></h5>
+                             <h5 class="member__name"><a href="#">Dr. Alberto Vazquez</a></h5>
                              <p class="member__job">On House Anestesiology</p>
                              <!-- <p class="member__desc">Brian specializes in treating skin, hair, nail, and mucous membrane. He
                             also

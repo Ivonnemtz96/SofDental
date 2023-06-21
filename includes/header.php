@@ -20,7 +20,7 @@
                                      <p>
                                          Cabo Soft Dental Care
                                      </p>
-                                     <a href="appointment.html" class="btn btn__secondary btn__link btn__block">
+                                     <a href="/contact" class="btn btn__secondary btn__link btn__block">
                                          <span>Make Appointment</span> <i class="icon-arrow-right"></i>
                                      </a>
                                  </div><!-- /.miniPopup-emergency -->
@@ -34,13 +34,13 @@
                                  <i class="icon-location"></i><a target="_blank" href="https://goo.gl/maps/zctTaDHTz7g6LKbX6">Location: San Jose del Cabo</a>
                              </li>
                              <li>
-                                 <i class="icon-clock"></i><a href="contact-us.html">Mon - Fri: 9:00 am - 5:00 pm</a>
+                                 <i class="icon-clock"></i><a href="#">Mon - Fri: 9:00 am - 5:00 pm</a>
                              </li>
                          </ul><!-- /.contact__list -->
                          <div class="d-flex">
                              <ul class="social-icons list-unstyled mb-0 mr-30">
-                                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                 <li><a href="https://www.facebook.com/cabosoftdental3737"><i class="fab fa-facebook-f"></i></a></li>
+                                 <li><a href="https://www.instagram.com/soft.dentalcare/"><i class="fab fa-instagram"></i></a></li>
                              </ul><!-- /.social-icons -->
                          </div>
                      </div>
@@ -95,7 +95,7 @@
                          <a href="/staff" class="nav__item-link">Our Staff</a>
                      </li>
                      <li class="nav__item">
-                         <a href="/" class="nav__item-link">Gallery</a>
+                         <a href="/gallery" class="nav__item-link">Gallery</a>
                      </li>
                      <li class="nav__item">
                          <a href="/contact" class="nav__item-link">Contacts</a>

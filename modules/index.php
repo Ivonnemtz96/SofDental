@@ -16,7 +16,7 @@
                                 approach for each patient. Come and discover how we can transform your dental health in
                                 a comprehensive way.
                             </p>
-                            
+
                         </div><!-- /.slide-content -->
                     </div><!-- /.col-xl-7 -->
                 </div><!-- /.row -->
@@ -34,7 +34,7 @@
                                 state-of-the-art technology and a friendly team, we will provide you with the best
                                 dental treatments, from regular cleanings to implants and orthodontics.
                             </p>
-                            
+
                         </div><!-- /.slide-content -->
                     </div><!-- /.col-xl-7 -->
                 </div><!-- /.row -->
@@ -225,7 +225,7 @@
                     <!-- service item #2 -->
                     <div class="service-item">
                         <div class="service__icon">
-                        <img style="width: 5rem;" src="/assets/images/icons/2.png" alt="">
+                            <img style="width: 5rem;" src="/assets/images/icons/2.png" alt="">
                         </div><!-- /.service__icon -->
                         <div class="service__content">
                             <h4 class="service__title">Bolding or Composite Resin Filling</h4>
@@ -247,7 +247,7 @@
                     <!-- service item #3 -->
                     <div class="service-item">
                         <div class="service__icon">
-                        <img style="width: 5rem;" src="/assets/images/icons/3.png" alt="">
+                            <img style="width: 5rem;" src="/assets/images/icons/3.png" alt="">
                         </div><!-- /.service__icon -->
                         <div class="service__content">
                             <h4 class="service__title">Cosmetic Dentistry</h4>
@@ -270,7 +270,7 @@
                     <!-- service item #4 -->
                     <div class="service-item">
                         <div class="service__icon">
-                        <img style="width: 5rem;" src="/assets/images/icons/4.png" alt="">
+                            <img style="width: 5rem;" src="/assets/images/icons/4.png" alt="">
                         </div><!-- /.service__icon -->
                         <div class="service__content">
                             <h4 class="service__title">Cosmetic Recontouring</h4>
@@ -292,7 +292,7 @@
                     <!-- service item #5 -->
                     <div class="service-item">
                         <div class="service__icon">
-                        <img style="width: 5rem;" src="/assets/images/icons/7.png" alt="">
+                            <img style="width: 5rem;" src="/assets/images/icons/7.png" alt="">
                         </div><!-- /.service__icon -->
                         <div class="service__content">
                             <h4 class="service__title">Dentures</h4>
@@ -314,7 +314,7 @@
                     <!-- service item #6 -->
                     <div class="service-item">
                         <div class="service__icon">
-                        <img style="width: 5rem;" src="/assets/images/icons/9.png" alt="">
+                            <img style="width: 5rem;" src="/assets/images/icons/9.png" alt="">
                         </div><!-- /.service__icon -->
                         <div class="service__content">
                             <h4 class="service__title">Extractions</h4>
@@ -476,64 +476,56 @@
                     <div class="slider-with-navs">
                         <!-- Testimonial #1 -->
                         <div class="testimonial-item">
-                            <h3 class="testimonial__title">“Their doctors include highly qualified practitioners who
-                                come from a
-                                range of backgrounds and bring with them a diversity of skills and special interests.
-                                They also have
-                                registered nurses on staff who are available to triage any urgent matters, and the
-                                administration
-                                and support staff all have exceptional people skills”
+                            <h3 class="testimonial__title">“
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores recusandae
+                                doloribus hic pariatur, ipsam deserunt reprehenderit vitae natus accusantium commodi
+                                voluptates, laudantium earum ipsum, nihil iste ut odio repellat tenetur.”
                             </h3>
                         </div><!-- /. testimonial-item -->
                         <!-- Testimonial #2 -->
                         <div class="testimonial-item">
-                            <h3 class="testimonial__title">“Their doctors include highly qualified practitioners who
-                                come from a
-                                range of backgrounds and bring with them a diversity of skills and special interests.
-                                They also have
-                                registered nurses on staff who are available to triage any urgent matters, and the
-                                administration
-                                and support staff all have exceptional people skills”
+                            <h3 class="testimonial__title">“
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores recusandae
+                                doloribus hic pariatur, ipsam deserunt reprehenderit vitae natus accusantium commodi
+                                voluptates, laudantium earum ipsum, nihil iste ut odio repellat tenetur.”
                             </h3>
                         </div><!-- /. testimonial-item -->
                         <!-- Testimonial #3 -->
                         <div class="testimonial-item">
-                            <h3 class="testimonial__title">“Their doctors include highly qualified practitioners who
-                                come from a
-                                range of backgrounds and bring with them a diversity of skills and special interests.
-                                They also have
-                                registered nurses on staff who are available to triage any urgent matters, and the
-                                administration
-                                and support staff all have exceptional people skills”
+                            <h3 class="testimonial__title">
+                            “
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores recusandae
+                                doloribus hic pariatur, ipsam deserunt reprehenderit vitae natus accusantium commodi
+                                voluptates, laudantium earum ipsum, nihil iste ut odio repellat tenetur.”
                             </h3>
                         </div><!-- /. testimonial-item -->
                     </div><!-- /.slick-carousel -->
                     <div class="slider-nav mb-60">
                         <div class="testimonial__meta">
                             <div class="testimonial__thmb">
-                                <img src="/assets/images/testimonials/thumbs/1.png" alt="author thumb">
+                                <img src="/assets/images/icons/21.png" alt="author thumb">
                             </div><!-- /.testimonial-thumb -->
                             <div>
-                                <h4 class="testimonial__meta-title">Sami Wade</h4>
-                                <p class="testimonial__meta-desc">7oroof Inc</p>
+                                <h4 class="testimonial__meta-title">Cliente 1</h4>
+
                             </div>
                         </div><!-- /.testimonial-meta -->
                         <div class="testimonial__meta">
                             <div class="testimonial__thmb">
-                                <img src="/assets/images/testimonials/thumbs/2.png" alt="author thumb">
+                                <img src="/assets/images/icons/21.png" alt="author thumb">
                             </div><!-- /.testimonial-thumb -->
                             <div>
-                                <h4 class="testimonial__meta-title">Ahmed</h4>
-                                <p class="testimonial__meta-desc">Web Inc</p>
+                                <h4 class="testimonial__meta-title">Cliente 2</h4>
+
                             </div>
                         </div><!-- /.testimonial-meta -->
                         <div class="testimonial__meta">
                             <div class="testimonial__thmb">
-                                <img src="/assets/images/testimonials/thumbs/3.png" alt="author thumb">
+                                <img src="/assets/images/icons/21.png" alt="author thumb">
                             </div><!-- /.testimonial-thumb -->
                             <div>
-                                <h4 class="testimonial__meta-title">Sonia Blake</h4>
-                                <p class="testimonial__meta-desc">Web Inc</p>
+                                <h4 class="testimonial__meta-title">Cliente 3</h4>
+
                             </div>
                         </div><!-- /.testimonial-meta -->
                     </div><!-- /.slider-nav -->
@@ -542,4 +534,3 @@
         </div><!-- /.testimonials-wrapper -->
     </div><!-- /.container -->
 </section><!-- /.testimonials layout 2 -->
-

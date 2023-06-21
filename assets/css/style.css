@@ -2653,18 +2653,19 @@ input[type=radio] {
 }
 .header-topbar .contact__list li > i {
   font-size: 16px;
-  color: #788fc8;
+  color: #000;
   margin-right: 8px;
 }
 .header-topbar .contact__list li:last-child {
   margin-right: 0;
 }
 .header-topbar .social-icons li a {
-  color: #d074bd;
+  color: #fff;
   background-color: #ed009e;
 }
 .header-topbar .social-icons li a:hover {
   background-color: #ffffff;
+  color: #ed009e;
 }
 .header-topbar .header-topbar__search {
   position: relative;
@@ -3648,7 +3649,7 @@ input[type=radio] {
 }
 .footer .footer-secondary {
   position: relative;
-  padding: 46px 0;
+  padding:10px 0;
   background-color: #ffffff;
 }
 .footer .footer-secondary:after {

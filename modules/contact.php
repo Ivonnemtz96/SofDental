@@ -103,7 +103,7 @@
                                      <i class="icon-location"></i><a target="_blank" href="https://goo.gl/maps/herxkvVARks3wkN16">Address: Blvr. Mijares 1092 Condominio Cactus Local 7 Col. Campo de Golf.</a>
                                  </li>
                                  <li>
-                                     <i class="icon-clock"></i><a href="contact-us.html">Mon - Fri: 9:00 am - 5:00
+                                     <i class="icon-clock"></i><a href="#">Mon - Fri: 9:00 am - 5:00
                                          pm</a>
                                  </li>
                              </ul>
