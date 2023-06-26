@@ -27,13 +27,13 @@
                          <h5 class="package__title">3 unit Bridge on Base Metal</h5>
                          <p class="package__desc"></p>
                          <ul class="package__list list-items list-items-layout2 list-unstyled">
-                             <li>USA Price Average: $ 4,500</li>
-                             <li>Your Savings: $ 2,850</li>
+                             <li>USA Price Average: $72,000 MXN</li>
+                             <li>Your Savings: $34,050 MXN</li>
                          </ul>
                      </div>
                      <div class="package__footer">
                          <div class="package__price">
-                             <span class="package__currency">$</span><span>1650</span>
+                             <span class="package__currency" style="font-size: 38px;">$</span><span style="font-size: 38px;">37,950 MXN</span>
                          </div>
                          <a href="#" class="btn btn__secondary btn__rounded">Contact Us</a>
                      </div><!-- /.package__footer -->
@@ -46,13 +46,13 @@
                          <h5 class="package__title">Crown - Porcelain Metal Base</h5>
                          <p class="package__desc"></p>
                          <ul class="package__list list-items list-items-layout2 list-unstyled">
-                             <li>USA Price Average: $ 1,500</li>
-                             <li>Your Savings: $ 950</li>
+                             <li>USA Price Average: $24,000 MXN</li>
+                             <li>Your Savings: $10,500 MXN</li>
                          </ul>
                      </div>
                      <div class="package__footer">
                          <div class="package__price">
-                             <span class="package__currency">$</span><span>550</span>
+                             <span class="package__currency" style="font-size: 38px;">$</span><span style="font-size: 38px;">13,500 MXN</span>
                          </div>
                          <a href="#" class="btn btn__primary btn__rounded">Contact Us</a>
                      </div><!-- /.package__footer -->
@@ -65,13 +65,13 @@
                          <h5 class="package__title">Nobel Bio Care Implant</h5>
                          <p class="package__desc"></p>
                          <ul class="package__list list-items list-items-layout2 list-unstyled">
-                             <li>USA Price Average: $ 3,000</li>
-                             <li>Your Savings: $ 1,750</li>
+                             <li>USA Price Average: $48,000 MXN</li>
+                             <li>Your Savings: $20,500</li>
                          </ul>
                      </div>
                      <div class="package__footer">
                          <div class="package__price">
-                             <span class="package__currency">$</span><span>1,250</span>
+                             <span class="package__currency" style="font-size: 38px;">$</span><span style="font-size: 38px;">27,500 MXN</span>
                          </div>
                          <a href="#" class="btn btn__secondary btn__rounded">Contact Us</a>
                      </div><!-- /.package__footer -->
@@ -84,13 +84,13 @@
                          <h5 class="package__title">Root Canal</h5>
                          <p class="package__desc"></p>
                          <ul class="package__list list-items list-items-layout2 list-unstyled">
-                             <li>USA Price Average: $ 1,200</li>
-                             <li>Your Savings: $ 710</li>
+                             <li>USA Price Average: $19,200 MXN</li>
+                             <li>Your Savings: $6,550 MXN</li>
                          </ul>
                      </div>
                      <div class="package__footer">
                          <div class="package__price">
-                             <span class="package__currency">$</span><span>550</span>
+                             <span class="package__currency" style="font-size: 38px;">$</span><span style="font-size: 38px; ">12,650 MXN</span>
                          </div>
                          <a href="#" class="btn btn__primary btn__rounded">Contact Us</a>
                      </div><!-- /.package__footer -->
