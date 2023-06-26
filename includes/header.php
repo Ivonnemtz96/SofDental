@@ -9,13 +9,13 @@
                      <div class="d-flex align-items-center justify-content-between">
                          <ul class="contact__list d-flex flex-wrap align-items-center list-unstyled mb-0">
                              <li>
-                                 <button class="miniPopup-emergency-trigger" type="button">Márcanos</button>
+                                 <button class="miniPopup-emergency-trigger" type="button">Call Us</button>
                                  <div id="miniPopup-emergency" class="miniPopup miniPopup-emergency text-center">
                                      <div class="emergency__icon">
                                          <i class="icon-call3"></i>
                                      </div>
-                                     <a href="tel:+526241422459" class="phone__number">
-                                         <i class="icon-phone"></i> <span>(624) 142 24 59</span>
+                                     <a href="tel:+526241426192" class="phone__number">
+                                         <i class="icon-phone"></i> <span>(624) 142 6192</span>
                                      </a>
                                      <p>
                                          Cabo Soft Dental Care
@@ -27,7 +27,7 @@
                              </li>
                              <li>
                                  <i class="icon-phone"></i><a href="tel:+526241426192">
-                                    Appoinment: (624) 142 6192
+                                    Appointment: (624) 142 6192
                                  </a>
                              </li>
                              <li>

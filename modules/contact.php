@@ -114,4 +114,4 @@
              </div><!-- /.col-lg-6 -->
          </div><!-- /.row -->
      </div><!-- /.container -->
- </section><!-- /.contact layout 1 -->
+ </section>
