@@ -2500,7 +2500,7 @@ input[type=radio] {
   margin-right: 0;
 }
 .navbar .nav__item .nav__item-link {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 700;
   text-transform: capitalize;
   display: block;
@@ -4789,7 +4789,7 @@ input[type=radio] {
 
 .testimonials-layout1 {
   border-radius: 15px;
-  background-color: #edfbfa;
+  background-color: #fbedf8;
 }
 .testimonials-layout1 .slick-dots {
   position: absolute;

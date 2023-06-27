@@ -98,6 +98,9 @@
                          <a href="/gallery" class="nav__item-link">Gallery</a>
                      </li>
                      <li class="nav__item">
+                         <a href="/testimonial" class="nav__item-link">Testimonials</a>
+                     </li>
+                     <li class="nav__item">
                          <a href="/contact" class="nav__item-link">Contacts</a>
                      </li>
                  </ul><!-- /.navbar-nav -->
