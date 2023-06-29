@@ -4,11 +4,8 @@
  <section class="google-map py-0">
      <iframe frameborder="0" height="500" width="100%"
          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.2807091925774!2d-109.69448041308273!3d23.050168114179233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4a5f2a515ea1%3A0x9481f0d6728b0001!2sCabo%20soft%20dental%20care!5e0!3m2!1ses-419!2smx!4v1687216108123!5m2!1ses-419!2smx&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near"></iframe>
- </section><!-- /.GoogleMap -->
-
- <!-- ==========================
-        contact layout 1
-    =========================== -->
+ </section>
+ 
  <section class="contact-layout1 pt-0 mt--100">
      <div class="container">
          <div class="row">
@@ -94,8 +91,8 @@
 
                                  <li>
                                      <i class="icon-phone"></i>
-                                     <a target="_blank" href="mailto:info@cabosoftdentalcare.com">
-                                        E-mail: info@cabosoftdentalcare.com
+                                     <a target="_blank" href="mailto:angelsdental@gmail.com">
+                                        E-mail: angelsdental@gmail.com
                                      </a>
                                  </li>
 
@@ -103,11 +100,10 @@
                                      <i class="icon-location"></i><a target="_blank" href="https://goo.gl/maps/herxkvVARks3wkN16">Address: Blvr. Mijares 1092 Condominio Cactus Local 7 Col. Campo de Golf.</a>
                                  </li>
                                  <li>
-                                     <i class="icon-clock"></i><a href="#">Mon - Fri: 9:00 am - 5:00
-                                         pm</a>
+                                     <i class="icon-clock"></i><a href="#">Mon - Fri: 9:00 am - 5:00 pm</a>
                                  </li>
                              </ul>
-                             <a href="mailto:info@cabosoftdentalcare.com" target="_blank" class="btn btn__white btn__rounded btn__outlined">Contact Us</a>
+                             <a href="mailto:angelsdental@gmail.com" target="_blank" class="btn btn__white btn__rounded btn__outlined">Contact Us</a>
                          </div>
                      </div>
                  </div>

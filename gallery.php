@@ -19,6 +19,7 @@ include('includes/head.php');
 
     <?
      include('includes/scripts.php');   
+     include('includes/redirect.php');   
     ?>
 
 </body>
