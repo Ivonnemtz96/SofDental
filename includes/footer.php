@@ -78,7 +78,7 @@
          <div class="container">
              <div class="row align-items-center justify-content-center">
                  <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-                     <span class="fz-14" style="color: #fff;">&copy; 2023 Cabo Soft Dental Care. Develop by</span>
+                     <span class="fz-14" style="color: #fff;">&copy; 2023 Cabo Soft Dental Care. Developed by</span>
                      <a class="fz-14"  style="color: #fff;"href="http://bananagroup.mx"><strong>Banana Group Marketing</strong></a>
                  </div><!-- /.col-lg-6 -->
             <!-- /.col-lg-6 -->

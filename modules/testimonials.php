@@ -152,7 +152,7 @@
  <section class="contact-layout1 pt-0 mt-100">
      <div class="container">
          <div class="row">
-             <div class="col-6">
+             <div class="col-12 col-md-6">
                  <form class="contact-panel__form" style="padding: 0 !important; max-width: 100%;" method="post"
                      action="/assets/php/contact.php" id="contactForm">
                      <div class="row">
@@ -208,7 +208,7 @@
                      </div><!-- /.row -->
                  </form>
              </div>
-             <div class="col-md-6">
+             <div class="col-12 col-md-6">
                  <iframe
                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.2516387342707!2d-109.69493102419723!3d23.051234315257062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4a5f2a515ea1%3A0x9481f0d6728b0001!2sCabo%20soft%20dental%20care!5e0!3m2!1ses-419!2smx!4v1687804841924!5m2!1ses-419!2smx"
                      width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
@@ -217,3 +217,5 @@
          </div><!-- /.row -->
      </div><!-- /.container -->
  </section>
+
+

@@ -72,7 +72,7 @@
      Work Process 
     ========================= -->
 <section class="work-process work-process-carousel pb-0" style="margin-bottom: 5rem;">
-    <div class="cta bg-primary">
+    <div class="cta bg-primary" style="background-color: #ed009e5c !important;">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-sm-12 col-md-2 col-lg-2">
