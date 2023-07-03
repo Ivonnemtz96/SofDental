@@ -2,8 +2,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <meta name="description" content="The best award is the recognition from all of her patients and former patients that recommends her all the time people ask for a dentist in the area they refer to her as the best dentist they have ever been even better that the one they have back home USA, Canada and Europe).">
-    <link href="/assets/images/favicon/favicon.png" rel="icon">
+    <meta name="description" content="The best award is the recognition from all of her patients and former patients that recommends her all the time people ask for a dentist in the area they refer to her as the best dentist they have ever been even better that the one they have back home USA, Canada and Europe.">
+    <link href="/assets/images/favicon/favicon.png?=1" rel="icon">
     <title>Cabo Soft Dental Care</title>
 
     <link rel="stylesheet"

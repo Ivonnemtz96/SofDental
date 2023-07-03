@@ -360,7 +360,7 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <img class="img-fluid" src="/assets/images/menu.jpg?=1" alt="">
+                <img class="img-fluid" src="/assets/images/menu.jpg?=3" alt="">
             </div>
         </div><!-- /.row -->
     </div><!-- /.container -->
@@ -501,60 +501,80 @@
                 <div class="col-sm-12 col-md-12 col-lg-7">
                     <div class="slider-with-navs">
                         <!-- Testimonial #1 -->
-                        <div class="testimonial-item">
-                            <h3 class="testimonial__title">“
-                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores recusandae
-                                doloribus hic pariatur, ipsam deserunt reprehenderit vitae natus accusantium commodi
-                                voluptates, laudantium earum ipsum, nihil iste ut odio repellat tenetur.”
-                            </h3>
-                        </div><!-- /. testimonial-item -->
+                       <!-- /. testimonial-item -->
                         <!-- Testimonial #2 -->
                         <div class="testimonial-item">
                             <h3 class="testimonial__title">“
-                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores recusandae
-                                doloribus hic pariatur, ipsam deserunt reprehenderit vitae natus accusantium commodi
-                                voluptates, laudantium earum ipsum, nihil iste ut odio repellat tenetur.”
+                                GREAT GREAT!! I just finish my dental treatment with Dr. Rosy !
+                                9 crowns and 2 implants, SHE WAS EXACTLY LIKE HER MICK NAME! THE TOUCH OF AN ANGLE!
+                                The cost of the treatment was 65% less expensive than at home USA.
+
+                                She is so professional and perfectionist.
+                                All the staff in the clinic speak fluent English.
+
+                                I fully recommend Dr. Rosy she is my new dentist and I will come beck every year for
+                                anual check.
+
+                                THANK YOU THANK YOU Dr Rosy!!!”
                             </h3>
-                        </div><!-- /. testimonial-item -->
+                        </div>
+                        
+                        
+                        <div class="testimonial-item">
+                            <h3 class="testimonial__title">“
+                                Absolutely the best experience at a dentist office in my 60 years of life. Dr. Pena and
+                                her staff treated me like I was famila. She and her staff performed a actimotomy (repair
+                                of a old root canal gone bad) oral surgery. Very little pain during the surgery, I was
+                                pleasantly surprised expecting a lot more and no pain or discomfort afterwards and now
+                                four days since. After this experience I will never set foot in a dental clinic in the
+                                US again unless it's an emergency. I have some more work for Dr. Pena to do and plan on
+                                having her as my dentist from now on. To anyone I highly recommend Dr. Pena and her
+                                staff. Getting to go to Los Cabos is a extra bonus!.”
+                            </h3>
+                        </div>
+                        
                         <!-- Testimonial #3 -->
                         <div class="testimonial-item">
                             <h3 class="testimonial__title">
                                 “
-                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores recusandae
-                                doloribus hic pariatur, ipsam deserunt reprehenderit vitae natus accusantium commodi
-                                voluptates, laudantium earum ipsum, nihil iste ut odio repellat tenetur.”
+                                Just completed a crown replacement and it was a wonderful experience. The replacement
+                                cost me half the price it would in the states, but it was executed perfectly and in less
+                                than one week. I was nervous about dental care outside of the US, but Rosa did an
+                                outstanding job replacing my cracked crown, and the new crown looks much better than any
+                                of my others from the states. Her scheduler was always accommodating and adjusted my
+                                appointment times based on my vacation needs. The office was very clean and the nicest
+                                I’ve ever been to. Highly recommend!”
                             </h3>
                         </div><!-- /. testimonial-item -->
                     </div><!-- /.slick-carousel -->
                     <div class="slider-nav mb-60">
-                        <div class="testimonial__meta">
-                            <div class="testimonial__thmb">
-                                <img src="/assets/images/icons/21.png" alt="author thumb">
-                            </div><!-- /.testimonial-thumb -->
-                            <div>
-                                <h4 class="testimonial__meta-title">Cliente 1</h4>
+                <div class="testimonial__meta">
+                  <div class="testimonial__thmb">
+                    <img src="/assets/images/icons/21.png" alt="author thumb">
+                  </div><!-- /.testimonial-thumb -->
+                  <div>
+                    <h4 class="testimonial__meta-title">shira ilitzky</h4>
 
-                            </div>
-                        </div><!-- /.testimonial-meta -->
-                        <div class="testimonial__meta">
-                            <div class="testimonial__thmb">
-                                <img src="/assets/images/icons/21.png" alt="author thumb">
-                            </div><!-- /.testimonial-thumb -->
-                            <div>
-                                <h4 class="testimonial__meta-title">Cliente 2</h4>
+                  </div>
+                </div><!-- /.testimonial-meta -->
+                <div class="testimonial__meta">
+                  <div class="testimonial__thmb">
+                    <img src="/assets/images/icons/21.png" alt="author thumb">
+                  </div><!-- /.testimonial-thumb -->
+                  <div>
+                    <h4 style="font-size: 1rem;" class="testimonial__meta-title">Frank</h4>
+                  </div>
+                </div><!-- /.testimonial-meta -->
+                <div class="testimonial__meta">
+                  <div class="testimonial__thmb">
+                    <img src="/assets/images/icons/21.png" alt="author thumb">
+                  </div><!-- /.testimonial-thumb -->
+                  <div>
+                    <h4 style="font-size: 1rem;" class="testimonial__meta-title">Brittany</h4>
 
-                            </div>
-                        </div><!-- /.testimonial-meta -->
-                        <div class="testimonial__meta">
-                            <div class="testimonial__thmb">
-                                <img src="/assets/images/icons/21.png" alt="author thumb">
-                            </div><!-- /.testimonial-thumb -->
-                            <div>
-                                <h4 class="testimonial__meta-title">Cliente 3</h4>
-
-                            </div>
-                        </div><!-- /.testimonial-meta -->
-                    </div><!-- /.slider-nav -->
+                  </div>
+                </div><!-- /.testimonial-meta -->
+              </div><!-- /.slider-nav -->
                 </div><!-- /.col-lg-7 -->
             </div><!-- /.row -->
         </div><!-- /.testimonials-wrapper -->

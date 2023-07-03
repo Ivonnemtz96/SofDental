@@ -61,7 +61,7 @@
                      <div class="slider-nav mb-60">
                          <div class="testimonial__meta">
                              <div class="testimonial__thmb">
-                                 <img src="/assets/images/testimonials/thumbs/1.png" alt="author thumb">
+                                 <img src="/assets/images/icons/21.png" alt="author thumb">
                              </div><!-- /.testimonial-thumb -->
                              <div>
                                  <h4 class="testimonial__meta-title">Katie Kortekaas</h4>
@@ -69,7 +69,7 @@
                          </div><!-- /.testimonial-meta -->
                          <div class="testimonial__meta">
                              <div class="testimonial__thmb">
-                                 <img src="/assets/images/testimonials/thumbs/2.png" alt="author thumb">
+                                 <img src="/assets/images/icons/21.png" alt="author thumb">
                              </div><!-- /.testimonial-thumb -->
                              <div>
                                  <h4 class="testimonial__meta-title">Dilsora</h4>
@@ -77,7 +77,7 @@
                          </div><!-- /.testimonial-meta -->
                          <div class="testimonial__meta">
                              <div class="testimonial__thmb">
-                                 <img src="/assets/images/testimonials/thumbs/3.png" alt="author thumb">
+                                 <img src="/assets/images/icons/21.png" alt="author thumb">
                              </div><!-- /.testimonial-thumb -->
                              <div>
                                  <h4 class="testimonial__meta-title">Sonia Blake</h4>
